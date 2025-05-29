@@ -1,0 +1,11 @@
+tensorflow>=2.11
+tensorflowjs>=4.0.0
+opencv-python
+scikit-image
+matplotlib
+numpy
+pandas
+scikit-learn
+tqdm
+Pillow
+roboflow

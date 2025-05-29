@@ -1,0 +1,16 @@
+double-curve
+no-entry
+one-way-traffic
+overtaking-forbidden
+road-narrows
+road-works
+slippery-road
+speed-100
+speed-20
+speed-30
+speed-50
+speed-60
+speed-70
+stop
+uneven-road
+yield
